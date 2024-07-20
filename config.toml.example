@@ -1,0 +1,11 @@
+[Bluesky]
+username="example@example.com"
+password="thisismyblueskypassword"
+
+[Mastodon]
+domain="tomkahe.com"
+username="tom"
+api_key="API key generated in Developer Settings of mastodon"
+
+[Threads]
+json_file="following.json"
