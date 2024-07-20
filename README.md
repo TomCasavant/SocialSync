@@ -4,7 +4,7 @@ Attempts to follow your Bluesky (bsky.brid.gy) follows and Threads follows via t
 
 ## Setup 
 - Clone repo
-- `pip install -r requirements.txt`
+- `pip install -r requirements.txt` (or use a virtual environment, `python -m virtualenv .venv`, `source .venv/bin/activate`)
 - Copy config.toml.example to config.toml.
 - Edit Bluesky config with username (or email) and password
 - Edit Mastodon config with domain, username, and api_key
